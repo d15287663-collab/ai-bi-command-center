@@ -1,6 +1,7 @@
 streamlit
 pandas
 plotly
-prophet
+prophet==1.1.5
 scikit-learn
+
 
